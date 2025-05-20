@@ -1,21 +1,40 @@
-<<<<<<< HEAD
-# app
+#Crime alert app 
 
-A new Flutter project.
+A Flutter application for crime reporting and safety management.
 
-## Getting Started
+## Features
+- Crime reporting
+- Emergency contacts
+- Crime map visualization
+- Turn-by-turn navigation
+- Helpline integration
+- User profiles
 
-This project is a starting point for a Flutter application.
+## Setup
+1. Clone the repository
+```bash
+git clone https://github.com/Shrutijain-22/crimealert.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# crimealert
-India Alert - Real-time crime alert, reporting, and prevention mobile app using Flutter 
->>>>>>> 0ccca52b7d7fff96cc19e891037475e7286b734f
+## Tech Stack
+- Flutter
+- Google Maps API
+- Firebase (planned)
+- Location Services
+
+## Contributing
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
