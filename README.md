@@ -1,4 +1,4 @@
-#Crime alert app 
+# Crime alert app 
 
 A Flutter application for crime reporting and safety management.
 
